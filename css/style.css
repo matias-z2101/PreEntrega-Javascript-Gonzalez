@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: rgb(127, 129, 129);
+}
+header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(96, 47, 119);
+}
+main{
+    gap: 5px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(102, 24, 67);
+}
+.img3{
+    margin-top: 60px;
+}
+.img5{
+    margin-top: 20px;
+}
+.img6{
+    transform: scale(1,0.5);
+}
